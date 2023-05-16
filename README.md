@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Python/Django**
 
 - 💬 Ask me about **PHP/Laravel**. I can dabble in anything **Javacript** and **CSS**. I'm also excited about anything Backend and DevOps**.
-- Currently spending my time as a Backend Developer at [https://africaexchange.com](Africa Exchange(AFEX))
+- Currently spending my time as a Backend Developer at [https://africaexchange.com](Africa Exchange - AFEX)
 
 - 📫 How to reach me **mudassiradili4u@gmail.com**
 
