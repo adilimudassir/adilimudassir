@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/adilimudassir" target="blank"><img src="https://img.shields.io/twitter/follow/adilimudassir?logo=twitter&style=for-the-badge" alt="adilimudassir" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Python/Django**
 
-- 💬 Ask me about **Laravel, Vue and Tailwind. I'm also excited about anything Backend and DevOps**
+- 💬 Ask me about **PHP/Laravel. I'm also excited about anything Backend and DevOps**
 
 - 📫 How to reach me **mudassiradili4u@gmail.com**
 
